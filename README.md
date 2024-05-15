@@ -11,7 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpanguene&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Courses at:
-Udemy	![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+Udemy	
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/victorpanguene) 

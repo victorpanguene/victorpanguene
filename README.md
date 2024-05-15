@@ -26,7 +26,7 @@
 -->
 
 
-# 💻 Courses at:
+<h2>💻 Courses at: </h2> 
 Udemy	<br/>
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
@@ -34,7 +34,7 @@ Udemy	<br/>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/victorpanguene) 
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=victorpanguene&icon=0&color=0)](https://visitcount.itsvg.in)

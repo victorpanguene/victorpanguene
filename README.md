@@ -6,7 +6,7 @@
 💭 Currently learning about REACT - TYPESCRIPT - NODEJS - MYSQL - PRISMA!  <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpanguene&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpanguene&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpanguene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpanguene&langs_count=8)
+

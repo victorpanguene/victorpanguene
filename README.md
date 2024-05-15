@@ -2,7 +2,9 @@
 <br>👋 Hi Devs, My name is Victor Panguene!<br><br>👩🏻‍💻 Software Design Architect sharing about my journey and learnings in tech <br/><br>👩🏻‍🎓 Studieding Tech & Design my own  <br/><br>🎨 Building UI/UX, Web workflows and stuff in figma and turning into Code  <br/><br>💭 Currently learning about REACT - TYPESCRIPT - NODEJS - MYSQL - PRISMA!  <br/><br><br><br>
 
 # 📊 GitHub Stats:
- ![](https://github-readme-streak-stats.herokuapp.com/?user=victorpanguene&theme=vision-friendly-dark&hide_border=true) <br/>
+
+  
+<-- ![](https://github-readme-streak-stats.herokuapp.com/?user=victorpanguene&theme=vision-friendly-dark&hide_border=true) <br/> 
  ![](https://github-readme-stats.vercel.app/api?username=victorpanguene&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpanguene&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
@@ -15,7 +17,7 @@
 
 
 # 💻 Courses at:
-Udemy	<by/>
+Udemy	<br/>
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ## 🌐 Socials:

@@ -27,7 +27,9 @@
 
 
 <h2>💻 Courses at: </h2> 
+
 Udemy	<br/>
+
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ## 🌐 Socials:

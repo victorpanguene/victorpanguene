@@ -1,5 +1,5 @@
 # 💫 Welcome in here - I am Victor Panguene:
-<br>👋 Hi Devs, My name is Victor Panguene!<br><br>👩🏻‍💻 Software Design Architect sharing about my journey and learnings in tech <br/><br>👩🏻‍🎓 Studieding Tech & Design my own  <br/><br>🎨 Building UI/UX, Web workflows and stuff in figma and turning into Code  <br/><br>💭 Currently learning about REACT - TYPESCRIPT - NODEJS - MYSQL - PRISMA!  <br/><br><br><br>
+<br>👋 Hi Devs, My name is Victor Panguene!<br><br>👩🏻‍💻 Software Design Architect sharing about my journey and learnings in tech <br/><br>👩🏻‍🎓 Studying Tech & Design my own  <br/><br>🎨 Building UI/UX, Web workflows and stuff in figma and turning into Code  <br/><br>💭 Currently learning about ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) - NODEJS - MYSQL - PRISMA!  <br/><br><br><br>
 
 <h2> 📊 GitHub Stats:</h2>
 

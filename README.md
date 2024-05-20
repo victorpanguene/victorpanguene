@@ -2,6 +2,7 @@
 <br>👋 Hi Devs, My name is Victor Panguene!<br><br>👩🏻‍💻 Software Design Architect sharing about my journey and learnings in tech <br/><br>👩🏻‍🎓 Studying Tech & Design my own  <br/><br>🎨 Building UI/UX, Web workflows and stuff in figma and turning into Code  <br/><br>💭 Currently learning about ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white), And much more, check my stack bellow 🤪 
 
 <h2> 📊 GitHub Stats:</h2>
+
 <p>  
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorpanguene&theme=onedark&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpanguene&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>

@@ -3,7 +3,7 @@
 
 <h2> 📊 GitHub Stats:</h2>
 
-<p>  
+<p>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorpanguene&theme=onedark&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpanguene&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorpanguene&theme=onedark&hide_border=true&include_all_commits=false&count_private=false"/>

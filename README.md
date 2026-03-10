@@ -1,5 +1,5 @@
 # 💫 Welcome - I am Victor Panguene:
-👋 Hi, I respond by the name Victor Panguene!<br>👩🏻‍💻 Software Design Architect sharing about my journey and learnings in tech <br/><br>👩🏻‍🎓 Studying Tech & Design my own🎨 Building UI/UX, Web workflows and stuff in figma and turning into Code  <br/><br>💭 Currently learning about ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white), And much more, check my stack bellow 🤪 
+👋 Hi, I respond by the name Victor Panguene!<br>👩🏻‍💻 Software Design Architect sharing about my journey and learnings in tech <br/>👩🏻‍🎓 Studying Tech & Design my own🎨 Building UI/UX, Web workflows and stuff in figma and turning into Code  <br>💭 Currently learning about ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white), And much more, check my stack bellow 🤪 
 
 <h2> 📊 GitHub Stats:</h2>
 
